@@ -1,3 +1,5 @@
 # .github
 
-**Welcome to COM-Software GmbH repository.**
+**Welcome to S&N Group AG repository.**
+
+The most of the content is private so you are only able to see it when you join uns with your S&N E-Mailadress and activate MFA.
